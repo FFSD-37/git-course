@@ -2,5 +2,3 @@ get user data...
 process the data
 
 maybe the final one for testing
-
-lakj
